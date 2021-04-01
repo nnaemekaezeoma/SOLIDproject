@@ -1,0 +1,12 @@
+C:\Users\Ezeoma Emmanuel\source\repos\SOLIDproject\SOLID\bin\Debug\SOLID.exe.config
+C:\Users\Ezeoma Emmanuel\source\repos\SOLIDproject\SOLID\bin\Debug\SOLID.exe
+C:\Users\Ezeoma Emmanuel\source\repos\SOLIDproject\SOLID\bin\Debug\SOLID.pdb
+C:\Users\Ezeoma Emmanuel\source\repos\SOLIDproject\SOLID\bin\Debug\EntityFramework.dll
+C:\Users\Ezeoma Emmanuel\source\repos\SOLIDproject\SOLID\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ezeoma Emmanuel\source\repos\SOLIDproject\SOLID\bin\Debug\EntityFramework.xml
+C:\Users\Ezeoma Emmanuel\source\repos\SOLIDproject\SOLID\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ezeoma Emmanuel\source\repos\SOLIDproject\SOLID\obj\Debug\SOLID.csprojAssemblyReference.cache
+C:\Users\Ezeoma Emmanuel\source\repos\SOLIDproject\SOLID\obj\Debug\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Ezeoma Emmanuel\source\repos\SOLIDproject\SOLID\obj\Debug\SOLID.csproj.CopyComplete
+C:\Users\Ezeoma Emmanuel\source\repos\SOLIDproject\SOLID\obj\Debug\SOLID.exe
+C:\Users\Ezeoma Emmanuel\source\repos\SOLIDproject\SOLID\obj\Debug\SOLID.pdb
